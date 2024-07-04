@@ -1,4 +1,4 @@
-package ChessSystem.BoardGame;
+package BoardGame;
 
 public class Position {
     
