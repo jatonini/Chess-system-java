@@ -1,4 +1,4 @@
-package BoardGame;
+package Application.BoardGame;
 
 public class Position {
     
